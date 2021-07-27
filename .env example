@@ -1,0 +1,3 @@
+COOKIE_SECRET = paste cookie passhere
+MONGO_CONNECTION_URL = paste link here
+rename file to .env and remove this statement
